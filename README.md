@@ -7,3 +7,5 @@ S.M.A.R.T.E.X is a CAEES - Campus Automated Entry Exit System which allows autom
 The front-end part is in the folder named User Interface whereas the back-end is in the folder Back-End
 
 The necessary documentation of the software system like Software Requirement Document, Design and Implementation documents as well as tesing doc and user manual are also present.
+
+You can clone this repo into your local device and fire up the system by using live server on index.html
